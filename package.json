@@ -1,4 +1,5 @@
 {
+  "name": "fork_dq",
   "private": true,
   "scripts": {
     "build": "turbo run build",
